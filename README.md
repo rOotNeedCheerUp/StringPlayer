@@ -36,3 +36,5 @@
 
 ```bash
 pip install Pillow opencv-python
+### 3.注
+在cmd或PowerShell 用6字号更好看，具体可自行设置参数调整，记得告诉我最好的更改
