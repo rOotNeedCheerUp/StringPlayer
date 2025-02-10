@@ -1,6 +1,7 @@
 # StringPlayer 😁😘😘😘😘
 
-程序将视频文件逐帧转换为 ASCII 并在控制台中播放。使用 Python 的 OpenCV 库处理视频帧，Pillow 库用于图像处理，Tkinter 用于选择视频文件。实现视频的每一帧显示为 ASCII 字符，实现视频播放效果。
+程序将视频文件逐帧转换为 ASCII 并在控制台中播放。使用 Python 的 OpenCV 库处理视频帧，Pillow 库用于图像处理，Tkinter 用于选择视频文件。实现视频的每一帧显示为 ASCII 字符，实现视频播放效果。注 在cmd或PowerShell 用6字号更好看，具体可自行设置参数调整，记得告诉我最好的更改
+
 
 ## 功能
 
@@ -36,5 +37,4 @@
 
 ```bash
 pip install Pillow opencv-python
-### 3.注
-在cmd或PowerShell 用6字号更好看，具体可自行设置参数调整，记得告诉我最好的更改
+
